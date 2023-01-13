@@ -65,7 +65,13 @@ class Saxon extends Soldier{
 
 class War {
 
-//build the armies    
+// build the armies    
+// even knowing this worked I tried do get 
+// let newViking = new Viking and then push(newViking)
+// didn't work 
+// tried this but don't really understand why it worked
+// my head it should a new soldier be created and push
+
     constructor(){
         this.vikingArmy = []
         this.saxonArmy = []
